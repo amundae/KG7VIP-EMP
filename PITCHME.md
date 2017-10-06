@@ -1,7 +1,7 @@
 ---?image=BG.jpg
 ## EMP Mitigation for Amateur Radio
 ### Trevor Best KG7VIP
-#### Presentation Licensed CreativeCommons Attribution ShareAlike CC-BY-SA
+#### Presentation Licensed Creative Commons Attribution ShareAlike CC-BY-SA
 ---?image=BG.jpg
 #### Available at tinyurl.com/kg7vip-emp
 ##### https://gitpitch.com/amundae/KG7VIP-EMP#/
