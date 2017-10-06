@@ -1,7 +1,7 @@
 ---?image=BG.jpg
 ## EMP Mitigation for Amateur Radio
 ### Trevor Best KG7VIP
-#### Presentation Licensed CC-BY-SA
+#### Presentation Licensed Attribution ShareAlike CC-BY-SA
 ---?image=BG.jpg
 ### Available at tinyurl.com/kg7vip-emp
 #### https://gitpitch.com/amundae/KG7VIP-EMP#/
@@ -57,7 +57,7 @@
 ---?image=BG.jpg
 * Follow stringent lightning protection standards, with EMP capable suppressors
 * Polyphaser & Alpha Delta in particular make protectors specifically for EMP protection
-* General Lightning protection units are likely not capable
+* General lightning protection units are likely not capable
 * Keep in mind that Coax itself may be compromised
 ---?image=BG.jpg
 * Older Equipment is better
@@ -82,5 +82,10 @@
 ---?image=BG.jpg
 * Always additionally shield the seam of any such solution
 * Typically tape the the seam of the container with aluminum tape
-* A taped garbage can gains 300% attenuation over a nontaped one
-
+* A taped garbage gains 300% attenuation over a nontaped one
+---?image=BG.jpg
+* Be very careful about bags, most on the internet are just mylar food storage bags and completely useless
+* There are rampant myths regarding nearly every aspect of EMP preparedness, listen to the experts who aren't trying to sell you anything
+* Keep your bravo sierra filters on high alert
+---?image=BG.jpg
+tinyurl.com/kg7vip-emp
