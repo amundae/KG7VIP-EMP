@@ -71,8 +71,16 @@
 ---?image=BG.jpg
 * Uncompromised shield of solid metal
 * Contents must be shielded from the metal
-* A properly implemented DIY cage provides ~50 dB energy reduction
+* A properly implemented DIY cage provides ~40 to 50 dB attenuation
 * They can and should be layered
 * Despite popular belief, a cage does not need to be grounded
 ---?image=BG.jpg
+* Garbage cans
+* Ammo cans
+* Conductive Bags
+* DIY conductive lined box
+---?image=BG.jpg
+* Always additionally shield the seam of any such solution
+* Typically tape the the seam of the container with aluminum tape
+* A taped garbage can gains 300% attenuation over a nontaped one
 
