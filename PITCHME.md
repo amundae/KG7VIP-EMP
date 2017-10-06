@@ -46,4 +46,28 @@
 ---?image=BG.jpg
 ![Image-Absolute](EMP.jpg)
 ---?image=BG.jpg
+### Mitigation Techniques
+---?image=BG.jpg
+### QST 1986 Series
+---?image=BG.jpg
+* Follow stringent lightning protection standards, with EMP capable suppressors
+* Polyphaser & Alpha Delta in particular make protectors specifically for EMP protection
+* General Lightning protection units are likely not capable
+* Keep in mind that Coax itself may be compromised
+---?image=BG.jpg
+* Older Equipment is better
+* Keep it unplugged if not in use
+---?image=BG.jpg
+### Modern Equipment
+---?image=BG.jpg
+* In 1986, microprocessor manufacturing was 1 um, today, it is at 14 nm about to be 11
+* Modern electronics are vulnerable to HEMP in an air-gapped state
+* For absolute protection, they must be kept in a faraday cage
+---?image=BG.jpg
+* Uncompromised shield of solid metal
+* Contents must be shielded from the metal
+* A properly implemented DIY cage provides ~50 dB energy reduction
+* They can and should be layered
+* Despite popular belief, a cage does not need to be grounded
+---?image=BG.jpg
 
