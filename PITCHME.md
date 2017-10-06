@@ -1,11 +1,11 @@
 ---?image=BG.jpg
 ## EMP Mitigation for Amateur Radio
 ### Trevor Best KG7VIP
-#### Presentation Licensed Attribution ShareAlike CC-BY-SA
+#### Presentation Licensed CreativeCommons Attribution ShareAlike CC-BY-SA
 ---?image=BG.jpg
-### Available at tinyurl.com/kg7vip-emp
-#### https://gitpitch.com/amundae/KG7VIP-EMP#/
-#### Source available https://github.com/amundae/KG7VIP-EMP
+#### Available at tinyurl.com/kg7vip-emp
+##### https://gitpitch.com/amundae/KG7VIP-EMP#/
+##### Source available https://github.com/amundae/KG7VIP-EMP
 ---?image=BG.jpg
 #### What is an EMP?
 * An electromagnetic pulse (EMP), also sometimes called a transient electromagnetic disturbance, is a short burst of electromagnetic energy. Such a pulse's origination may be a natural occurrence or man-made and can occur as a radiated, electric, or magnetic field or a conducted electric current, depending on the source. -**Wikipedia**
